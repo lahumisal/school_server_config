@@ -1,0 +1,3 @@
+#smart_school-uat.yml
+server:
+  port: 9090

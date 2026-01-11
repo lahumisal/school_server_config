@@ -1,0 +1,3 @@
+#smart_school-prod.yml
+server:
+  port: 9090
