@@ -1,4 +1,3 @@
-#
-spring:
-  server:
-    port: 9090
+#smart_school-dev.yml
+server:
+  port: 9090
